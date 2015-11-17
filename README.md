@@ -1,2 +1,2 @@
 # whenever.js
-Very simple function for 
+Very simple function for deffered function calling.
